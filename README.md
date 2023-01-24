@@ -11,7 +11,7 @@
 <a href="https://instagram.com/aarush_agarwal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarush_agarwal1/" height="30" width="40" /></a>
 
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarush-a" alt="aarush-a" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarush-a&show_icons=true&locale=en&layout=compact" alt="aarush-a" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarush-a" alt="aarush-a" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarush-a&show_icons=true&locale=en&layout=compact" alt="aarush-a" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarush-a&show_icons=true&&theme=radicallocale=en" alt="aarush-a" /></p>
 
